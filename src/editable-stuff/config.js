@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Chibane",
   middleName: "",
   lastName: "Lila",
-  message: " Data Scientist | Data Engineer | Data Analyst | Software Engineer \nPassionate about changing the world with technology. ",
+  message: " Data Scientist | Data Engineer | Data Analyst | Software Engineer !<br/> Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
