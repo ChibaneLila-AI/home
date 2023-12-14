@@ -19,7 +19,7 @@ const mainBody = {
   
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/lila-chibane-a6099a250/",
+      url: "https://www.linkedin.com/in/lila-chibane-a6099a250",
     },
    
   ],
