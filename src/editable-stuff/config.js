@@ -46,7 +46,7 @@ const about = {
   imageSize: 375,
   message:
     "Welcome to my Website! My name is Chibane Lila. I’m a graduate of 2024 from Paris Cité university at Paris with a master diploma. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://www.figma.com/file/Becbvzr2FhMR6ZTeCyH0My/CV_Chibane-Lila-English?type=design&node-id=0-1&mode=design&t=mR2wghkEjKw0QjwM-0",
+  resume: "https://drive.google.com/file/d/15F7TJidkzpwpfsF2cu71XFsigmJa03ii/view",
 };
 
 // PROJECTS SECTION
