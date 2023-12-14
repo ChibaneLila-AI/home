@@ -95,7 +95,7 @@ const skills = {
     { name: "Machine Learning", value: 80 },
     { name: "Deep Learning", value: 90 },
     { name: "Neural Networks", value: 75 },
-    { name: "Unseupervised Learning", value: 85 },
+    { name: "Unsupervised Learning", value: 85 },
     { name: "NLP", value: 75 },
     { name: "Image processing", value: 90 },
     { name: "Big data", value: 70 },
