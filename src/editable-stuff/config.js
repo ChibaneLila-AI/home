@@ -91,26 +91,26 @@ const leadership = {
 const skills = {
   show: true,
   heading: "Skills",
-  hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
+  AIMethods: [
+    { name: "Machine Learning", value: 80 },
+    { name: "Deep Learning", value: 90 },
+    { name: "Neural Networks", value: 75 },
+    { name: "Unseupervised Learning", value: 85 },
+    { name: "NLP", value: 75 },
+    { name: "Image processing", value: 90 },
+    { name: "Big data", value: 70 },
+    { name: "Time Series", value: 90 },
+  ],
+  softSkills: [
+    { name: "Python", value: 95 },
+    { name: "R", value: 95 },
+    { name: "SQL/PL-SQL", value: 85 },
     { name: "Data Structures", value: 85 },
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
     { name: "C#", value: 80 },
   ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
-  ],
+  
 };
 
 // GET IN TOUCH SECTION
