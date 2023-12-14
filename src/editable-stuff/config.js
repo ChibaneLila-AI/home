@@ -46,7 +46,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Chibane Lila. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://www.figma.com/file/Becbvzr2FhMR6ZTeCyH0My/CV_Chibane-Lila-English?type=design&node-id=0-1&mode=design&t=mR2wghkEjKw0QjwM-0",
 };
 
 // PROJECTS SECTION
