@@ -91,7 +91,7 @@ const leadership = {
 const skills = {
   show: true,
   heading: "Skills",
-  AIMethods: [
+  hardSkills: [
     { name: "Machine Learning", value: 80 },
     { name: "Deep Learning", value: 90 },
     { name: "Neural Networks", value: 75 },
